@@ -1,0 +1,25 @@
+:root {
+    background-color: black;
+}
+
+.Top-Text {
+    background-color: blue;
+    padding-bottom: 20px;
+}
+
+.top-div {
+    padding-left: 200px;
+}
+
+.block-1 {
+    background-color: bisque;
+    padding-top: 82px;
+    padding-right: 10px;
+    padding-bottom: 15px;
+    border-bottom-left-radius: 10px
+}
+
+.blocks {
+    display: block;
+    margin-right: 87vw;
+}
